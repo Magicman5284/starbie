@@ -1,4 +1,14 @@
-Starbie
+Welcome to my Starbie project!
+
+This is my first project for the hackclub halflife program. 
+
+I chose to do the starby beginner project because I had never designed a circuit board before, and I wanted to start with something easier. 
+
+About halfway through I decided to change the project a bit and add more keys so that it can also act as a macropad. 
+
+I figured that just a virtual pet wouldn't have much use, so I decided to make it so that it also had a use outside of that!
+
+
 
 Starbie is a virtual pet powered by a Seeed XIAO ESP32-C3, with an OLED display, motion sensing, and temperature/humidity readings. It also works as a Bluetooth macropad.
 
